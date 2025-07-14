@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Digital Garden
+description: Christians Digital Garden
 theme: just-the-docs
+color_scheme: catppuccin
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Github: https://github.com/TheInfinityCyber/digital-garden#
+
+aux_links_new_tab: true
