@@ -56,6 +56,7 @@ heading_anchors: true
 
 color_scheme: catppuccin
 
+callouts_opacity: 0.1
 callouts:
   attention:
     title: Attention
@@ -72,3 +73,4 @@ callouts:
   warning:
     title: Warning
     color: red
+    
