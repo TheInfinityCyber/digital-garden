@@ -55,3 +55,20 @@ nav_enabled: true
 heading_anchors: true
 
 color_scheme: catppuccin
+
+callouts:
+  attention:
+    title: Attention
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  tip:
+    title: Tip
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red

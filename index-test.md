@@ -3,6 +3,17 @@ title: Markdown kitchen sink
 layout: default
 ---
 
+A paragraph ...
+{: .attention }
+A paragraph...
+{: .important }
+A paragraph...
+{: .tip }
+A paragraph...
+{: .note }
+A paragraph...
+{: .warning }
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page]({{site.baseurl}}/).
