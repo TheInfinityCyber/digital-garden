@@ -1,0 +1,13 @@
+@import "color_schemes/macchiato.scss";
+
+strong, b {
+  color: $macchiato-sapphire;
+}
+
+em, i {
+  color: $macchiato-lavender;
+}
+
+del {
+  color: $macchiato-maroon;
+}
