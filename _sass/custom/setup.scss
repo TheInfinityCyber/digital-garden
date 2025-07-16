@@ -1,24 +1,22 @@
-$purple-000: #c6a0f6;
-$purple-300: #c6a0f6;
+@import "color_schemes/macchiato.scss";
 
-$blue-000: #7dc4e4;
-$blue-300: #7dc4e4;
+//Custom Callout Colors
+$purple-000: $macchiato-mauve;
+$purple-300: $macchiato-mauve;
 
-$green-000: #8bd5ca;
-$green-300: #8bd5ca;
-
-$yellow-000: #f5a97f;
-$yellow-300: #f5a97f;
-
-$red-000: #ee99a0;
-$red-300: #ee99a0;
-
-$grey-dk-000: #7dc4e4;
-$grey-dk-100: #7dc4e4;
-$grey-dk-200: #7dc4e4;
-$grey-dk-250: #7dc4e4;
-$grey-dk-300: #7dc4e4;
-$grey-lt-000: #7dc4e4;
-$grey-lt-100: #7dc4e4;
-$grey-lt-200: #7dc4e4;
-$grey-lt-300: #7dc4e4;
+$blue-000: $macchiato-sapphire;
+$blue-300: $macchiato-sapphire;
+$green-000: $macchiato-green;
+$green-300: $macchiato-green;
+$yellow-000: $macchiato-peach;
+$yellow-300: $macchiato-peach;
+$red-000: $macchiato-maroon;
+$red-300: $macchiato-maroon;
+$grey-dk-000: $macchiato-sapphire;
+$grey-dk-100: $macchiato-sapphire;
+$grey-dk-250: $macchiato-sapphire;
+$grey-dk-300: $macchiato-sapphire;
+$grey-lt-000: $macchiato-sapphire;
+$grey-lt-100: $macchiato-sapphire;
+$grey-lt-200: $macchiato-sapphire;
+$grey-lt-300: $macchiato-sapphire;

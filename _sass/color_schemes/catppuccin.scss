@@ -1,15 +1,20 @@
-$body-background-color: #24273a;
-$body-heading-color: #b7bdf8;
-$body-text-color: #cad3f5;
-$link-color: #8bd5ca;
-$nav-child-link-color: #6e738d;
-$sidebar-color: #1e2030;
-$base-button-color: #363a4f;
-$btn-primary-color: #c6a0f6;
-$code-background-color: #1e2030;
-$code-linenumber-color: #a5adcb;
-$feedback-color: #1e2030;
-$table-background-color: #363a4f;
-$search-background-color: #363a4f;
-$search-result-preview-color: #6e738d;
-$border-color: #363a4f;
+@import "macchiato.scss";
+//Typography
+$body-font-family: "Vollkorn" system-ui, -apple-system, blinkmacsystemfont, "Segoe UI",
+  roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
+
+$body-background-color: $macchiato-base;
+$body-heading-color: $macchiato-lavender;
+$body-text-color: $macchiato-text;
+$link-color: $macchiato-teal;
+$nav-child-link-color: $macchiato-overlay-0;
+$sidebar-color: $macchiato-mantle;
+$base-button-color: $macchiato-surface-0;
+$btn-primary-color: $macchiato-mauve;
+$code-background-color: $macchiato-mantle;
+$code-linenumber-color: $macchiato-subtext-0;
+$feedback-color: $macchiato-mantle;
+$table-background-color: $macchiato-surface-0;
+$search-background-color: $macchiato-surface-0;
+$search-result-preview-color: $macchiato-overlay-0;
+$border-color: $macchiato-surface-0;
