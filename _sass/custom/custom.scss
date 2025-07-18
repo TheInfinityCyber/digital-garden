@@ -11,3 +11,28 @@ em, i {
 del {
   color: $macchiato-maroon;
 }
+
+.task-list-item-checkbox {
+  appearance: none;
+
+  vertical-align: text-top;
+  width: 1em;
+  height: 1em;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 4px;
+  border-color: $macchiato-lavender;
+  background-color: $macchiato-base;
+}
+
+.task-list-item-checkbox:checked {
+  vertical-align: text-top;
+  background-color: $macchiato-lavender;
+}
+
+.task-list-item-checkbox:checked::after {
+  vertical-align: text-top;
+  content: "✔";
+  font-size: 0.85em;
+  color: $macchiato-base;
+}
