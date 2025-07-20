@@ -21,7 +21,7 @@ E-Mail: theinfinitycyber@gmail.com
 
 Telefon: +49 179 3409950
 
-### Redaktionell verantwortlich:
+### Verantwortlicher gemäß § 18 Abs. 2 MStV (V.i.S.d.P.):
 
 Christian Alexander
 
