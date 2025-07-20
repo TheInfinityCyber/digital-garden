@@ -80,6 +80,9 @@ collections:
   tests:
     permalink: "/:collection/:path/"
     output: true
+  imprint:
+    permalink: "/:collection/:path/"
+    output: true
 
 just_the_docs:
   # Define which collections are used in just-the-docs
@@ -96,6 +99,11 @@ just_the_docs:
       # nav_fold: true  # note: this option is new in v0.4
       # Exclude the collection from the search
       # Supports true or false (default)
+      search_exclude: true
+  
+    imprint:
+      name: Imprint
+      nav_exclude: true
       search_exclude: true
 
 back_to_top: true
