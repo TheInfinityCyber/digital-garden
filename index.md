@@ -7,14 +7,13 @@ title: Willkommen
 ## Die Idee eines digitalen Gartens
 Hey, freut mich dass du meine [Website](https://christianalexander.xyz) gefunden hast :) Sie folgt dem Konzept eines *Digitalen Gartens*. Mein Ziel ist es dabei, meine Gedanken zu verschiedensten Themen in Worte zu fassen. Außerdem möchte ich Lernprozesse, Materialien sowie alles, was ich als interessant, nützlich, lustig oder wichtig empfinde mit all denen teilen, die es interessiert. Im Idealfall kann der ein oder andere davon dann hoffentlich auch profitieren. Das Prinzip entspricht einer Art nicht linearen Blog, der in seiner Struktur einem Wiki ähnelt und über die Zeit dynamisch entwickelt und erweitert wird. So wie in einem Garten aus Setzlingen Bäume werden können, sollen aus Ideen und Umrissen vollständige Blogposts und Artikel entstehen.
 
-<details open markdown="block">
-  <summary style="color:#b7bdf8;">
-    Inhaltsverzeichnis
-  </summary>
-  {: .text-beta }
+
+## Inhaltsverzeichnis
+{: .text-beta }
+
 - TOC
 {:toc}
-</details>
+
 
 ## Mein Anspruch an dieses Projekt
 ### Design-Philosophie
