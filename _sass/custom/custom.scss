@@ -32,8 +32,9 @@ del {
 
 .task-list-item-checkbox:checked::after {
   vertical-align: text-top;
+  text-align: center;
   content: "✔";
-  font-size: 0.85em;
+  font-size: 0.9em;
   color: $macchiato-base;
 }
 
@@ -52,3 +53,7 @@ h3, .text-gamma   { font-size: 1.5rem!important; }
 h4, .text-delta   { font-size: 1.3rem    !important; }
 h5, .text-epsilon { font-size: 1.15rem!important; }
 h6, .text-zeta    { font-size: 1.05rem !important; }
+
+details {
+  margin-top: 2rem; 
+}
