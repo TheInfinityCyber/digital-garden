@@ -68,6 +68,22 @@ callouts:
   warning:
     title: Warning
     color: red
+  
+  achtung:
+    title: Achtung
+    color: yellow
+  anmerkung:
+    title: Anmerkung
+    color: blue
+  tip:
+    title: Tip
+    color: green
+  notiz:
+    title: Notiz
+    color: purple
+  warnung:
+    title: Warnung
+    color: red
     
     # Define Jekyll collections
 collections:
